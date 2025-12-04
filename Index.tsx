@@ -131,7 +131,7 @@ const Index = () => {
       <header className="sticky top-0 z-50 bg-background border-b border-border">
         <div className="max-w-[900px] mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-lg font-semibold text-foreground">Outbound</h1>
+            <h1 className="text-lg font-semibold text-foreground">Outbound-Learning-To-Code</h1>
             <nav className="hidden md:flex gap-6 text-sm">
               <button
                 onClick={() => scrollToSection("hero")}
